@@ -14,6 +14,8 @@ To learn how to create custom JS nodes, compile logics to JS or execute the logi
 
 ### 📻 Assistance
 
-- If you have any suggestion or want to report a bug, please create an issue in the [lunapark/lunapark](https://github.com/lunapark/lunapark/issues) repository.
+- If you have any **suggestion** or want to **report a bug**, please create an issue in the [lunapark/lunapark](https://github.com/lunapark/lunapark/issues) repository.
 
-- To get some help with an issue, you can join the Discord server or use the GitHub [discussion space](https://github.com/lunapark/lunapark/discussions) of lunapark/lunapark.
+- To **get some help** on the editor or the integration, you can join the [Discord server](https://discord.gg/2eAk2AHvdw) or use the GitHub [discussion space](https://github.com/lunapark/lunapark/discussions) of lunapark/lunapark.
+
+- To have the **latest news** on Luna Park, be sure to follow our [Twitter account](https://twitter.com/lunaparkhq) or join our [Discord Server](https://discord.gg/2eAk2AHvdw).
