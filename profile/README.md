@@ -8,14 +8,14 @@ You can try out the editor on the [Luna Park website](https://luna-park.app). If
 
 ### 🏗️ Editor Setup
 
-Luna Park is made to be integrated in any web stack. You can check out some boilerplate examples in the [lunapark/demo repo](https://github.com/lunapark/demo). 
+Luna Park is made to be integrated in any web stack. You can check out some [boilerplate examples](https://github.com/lunapark/demo) in the `lunapark/demo` repository. 
 
 To learn how to create custom JS nodes, compile logics to JS or execute the logic from a JS context, please refer to the Luna Park documentation available here: https://luna-park.app/documentation.
 
 ### 📻 Assistance
 
-- If you have any **suggestion** or want to **report a bug**, please create an issue in the [lunapark/lunapark](https://github.com/lunapark/lunapark/issues) repository.
+- If you have any **suggestion** or want to **report a bug**, please [create an issue](https://github.com/lunapark/lunapark/issues) in the `lunapark/lunapark` repository.
 
-- To **get some help** on the editor or the integration, you can join the [Discord server](https://discord.gg/2eAk2AHvdw) or use the GitHub [discussion space](https://github.com/lunapark/lunapark/discussions) of lunapark/lunapark.
+- To get **some help**, you can join the [Discord server](https://discord.gg/2eAk2AHvdw) or use the GitHub [discussion space](https://github.com/lunapark/lunapark/discussions) of `lunapark/lunapark`.
 
-- To have the **latest news** on Luna Park, be sure to follow our [Twitter account](https://twitter.com/lunaparkhq) or join our [Discord Server](https://discord.gg/2eAk2AHvdw).
+- To get the **latest news** on Luna Park, be sure to follow our [Twitter account](https://twitter.com/lunaparkhq) or join our [Discord Server](https://discord.gg/2eAk2AHvdw).
