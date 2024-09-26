@@ -6,11 +6,11 @@
 
 You can try out the editor on the [Luna Park website](https://luna-park.app). If you want to learn how to use visual scripting, you can take up the [Luna Park challenge](https://luna-park.app/challenge), a series of puzzle that will teach you the basics in a gamified way.
 
-### 🏗️ Editor Setup
+### 🏗️ ~~Editor Setup~~
 
-Luna Park is made to be integrated in any web stack. You can check out some [boilerplate examples](https://github.com/lunapark/demo) in the `lunapark/demo` repository. 
+~~Luna Park is made to be integrated in any web stack. You can check out some [boilerplate examples](https://github.com/lunapark/demo) in the `lunapark/demo` repository.~~
 
-To learn how to create custom JS nodes, compile logics to JS or execute the logic from a JS context, please refer to the Luna Park documentation available here: https://luna-park.app/documentation.
+~~To learn how to create custom JS nodes, compile logics to JS or execute the logic from a JS context, please refer to the Luna Park documentation available here: https://luna-park.app/documentation.~~
 
 ### 📻 Assistance
 
