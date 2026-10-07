@@ -1,21 +1,42 @@
-![image](https://github.com/user-attachments/assets/62e987ea-9e45-4bcb-9587-d068dff6cc87)
-
 # 🎡 Welcome to Luna Park
 
-[Luna Park](https://luna-park.app) is a visual scripting editor for the web. Faster and easier than code, more flexible and performant than no-code, visual scripting makes software development accessible to anyone.
+[Luna Park](https://luna-park.app) is a visual development environment
+for building full-stack web applications.
 
-You can try out the editor on the [Luna Park website](https://luna-park.app). If you want to learn how to use visual scripting, you can take up the [Luna Park challenge](https://luna-park.app/challenge), a series of puzzle that will teach you the basics in a gamified way.
+Build interfaces, connect application logic with nodes, manage state,
+and create backend APIs and database queries—all in one workspace.
+Work with familiar programming concepts such as variables, functions,
+conditions, and loops through a visual editor.
 
-### 🏗️ ~~Editor Setup~~
+### 🏗️ What can you build?
 
-~~Luna Park is made to be integrated in any web stack. You can check out some [boilerplate examples](https://github.com/lunapark/demo) in the `lunapark/demo` repository.~~
+- Responsive pages and reusable Vue components
+- Application logic and shared state
+- Backend services and REST APIs
+- PostgreSQL databases and visual queries
 
-~~To learn how to create custom JS nodes, compile logics to JS or execute the logic from a JS context, please refer to the Luna Park documentation available here: https://luna-park.app/documentation.~~
+### 🔓 Your application, your code
 
-### 📻 Assistance
+Luna Park builds on Vue, Vite, Node.js, Fastify, and PostgreSQL.
+Use npm packages and Vue component libraries, extend the editor with
+plugins, and export your project as source code to host anywhere.
 
-- If you have any **suggestion** or want to **report a bug**, please [create an issue](https://github.com/lunapark/lunapark/issues) in the `lunapark/lunapark` repository.
+Optional AI assistance helps you create and refine your application,
+while keeping changes visible and editable.
 
-- To get **some help**, you can join the [Discord server](https://discord.gg/2eAk2AHvdw) or use the GitHub [discussion space](https://github.com/lunapark/lunapark/discussions) of `lunapark/lunapark`.
+### 🚀 Get started
 
-- To get the **latest news** on Luna Park, be sure to follow our [Twitter account](https://twitter.com/lunaparkhq) or join our [Discord Server](https://discord.gg/2eAk2AHvdw).
+Visit [luna-park.app](https://luna-park.app) to open the browser editor
+or download the Windows app.
+
+- [Documentation](https://luna-park.app/docs/)
+- [Luna Park Challenge](https://luna-park.app/challenge) — learn visual
+  scripting through interactive puzzles
+
+### 📻 Community and feedback
+
+This repository hosts Luna Park bug reports and feature requests.
+
+- [Report a bug or suggest a feature](https://github.com/lunapark/lunapark/issues/new/choose)
+- [Ask questions and share ideas](https://github.com/lunapark/lunapark/discussions)
+- [Join the community on Discord](https://discord.gg/2eAk2AHvdw)
