@@ -8,12 +8,18 @@ and create backend APIs and database queries—all in one workspace.
 Work with familiar programming concepts such as variables, functions,
 conditions, and loops through a visual editor.
 
+![Luna Park page builder](https://raw.githubusercontent.com/lunapark/.github/main/profile/images/builder.png)
+
 ### 🏗️ What can you build?
 
 - Responsive pages and reusable Vue components
 - Application logic and shared state
 - Backend services and REST APIs
 - PostgreSQL databases and visual queries
+
+| Logic | Database | API route |
+|---|---|---|
+| ![Visual logic graph](https://raw.githubusercontent.com/lunapark/.github/main/profile/images/logic.png) | ![Database table](https://raw.githubusercontent.com/lunapark/.github/main/profile/images/database.png) | ![Backend route](https://raw.githubusercontent.com/lunapark/.github/main/profile/images/route.png) |
 
 ### 🔓 Your application, your code
 
